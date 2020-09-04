@@ -1,1 +1,2 @@
-Replace this with a link to your a GitHub or social media profile.
+## LinkedIn
+[LinkedIn Profile](https://www.linkedin.com/in/joshua-meneghello-b97294b0/)
