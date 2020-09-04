@@ -1,2 +1,0 @@
-Josh Meneghello
-# My portfolio
